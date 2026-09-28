@@ -1,4 +1,4 @@
-# Graph Viewer
+# GraphVizz
 
 A real-time graph and pathfinding visualizer built in C++ with [Dear ImGui](https://github.com/ocornut/imgui), GLFW, and OpenGL. It provides a map-based interface for generating graph structures, wiring them up by hand, and watching search algorithms explore them step by step.
 
